@@ -27,7 +27,7 @@
 
   <circle cx="320" cy="150" r="8" fill="#22D3EE"/>
   <circle cx="320" cy="150" r="18" stroke="#22D3EE" stroke-width="1.5" stroke-dasharray="3 3"/>
-  <text x="300" y="185" fill="#94A3B8" font-family="'Inter', sans-serif" font-size="11" font-weight="600">London HQ</text>
+  <text x="300" y="185" fill="#94A3B8" font-family="'Inter', sans-serif" font-size="11" font-weight="600">Harare HQ</text>
 
   <circle cx="480" cy="220" r="8" fill="#38BDF8"/>
   <circle cx="480" cy="220" r="18" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3 3"/>
