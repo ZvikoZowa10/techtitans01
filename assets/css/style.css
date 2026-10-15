@@ -835,6 +835,7 @@ main > section:not(.hero-container):not(.page-hero) .text-muted {
 /* Forms (Contact Page) */
 .form-card {
   padding: 2.5rem;
+
 }
 
 .form-label {
@@ -842,11 +843,12 @@ main > section:not(.hero-container):not(.page-hero) .text-muted {
   font-size: 0.875rem;
   color: var(--text-bright);
   margin-bottom: 0.45rem;
+  
 }
 
 .form-control,
 .form-select {
-  background-color: #FFFFFF;
+  background-color: #FFF;
   border: 1.5px solid var(--border-quiet);
   border-radius: var(--radius-mid);
   color: #0F172A;
@@ -857,7 +859,7 @@ main > section:not(.hero-container):not(.page-hero) .text-muted {
 
 .form-control:focus,
 .form-select:focus {
-  background-color: #FFFFFF;
+  background-color: #FFF;
   border-color: var(--accent);
   color: #0F172A;
   box-shadow: 0 0 0 3px rgba(26, 115, 232, 0.15);
@@ -879,7 +881,7 @@ main > section:not(.hero-container):not(.page-hero) .text-muted {
 
 .site-footer .brand-mark,
 .site-footer .brand-mark:hover {
-  color: #FFFFFF !important;
+  color: #FFF !important;
 }
 
 .site-footer a {
@@ -889,7 +891,7 @@ main > section:not(.hero-container):not(.page-hero) .text-muted {
 }
 
 .site-footer a:hover {
-  color: #FFFFFF !important;
+  color: #FFF !important;
 }
 
 .site-footer p {
@@ -897,7 +899,7 @@ main > section:not(.hero-container):not(.page-hero) .text-muted {
 }
 
 .footer-col-title {
-  color: #FFFFFF;
+  color: #FFF;
   font-size: 0.8125rem;
   font-weight: 700;
   text-transform: uppercase;
